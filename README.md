@@ -1,30 +1,34 @@
 Signup and Login Page created using MERN.
-Sample Images
-![image](https://github.com/user-attachments/assets/0a5f9cc4-a60a-4ee3-91c4-c99ccd92e0f7)
-![image](https://github.com/user-attachments/assets/997f8c6b-f327-4dc5-aa68-c2b6d3705ba3)
-![image](https://github.com/user-attachments/assets/1d63fccf-2f19-4f7b-811e-f40f0dd65e58)
 <hr />
-Installation
+Sample Images
+<hr />
+![image](https://github.com/user-attachments/assets/0a5f9cc4-a60a-4ee3-91c4-c99ccd92e0f7)<hr />
+![image](https://github.com/user-attachments/assets/997f8c6b-f327-4dc5-aa68-c2b6d3705ba3)<hr />
+![image](https://github.com/user-attachments/assets/1d63fccf-2f19-4f7b-811e-f40f0dd65e58)<hr />
 
-1.Clone the repository
-git clone https://github.com/kethn-tech/TechTalke.git
-cd login-signup-page
+<h1>Installation</h1><br/>
 
-2.Install Dependencies
-cd backend
+<h4>1.Clone the repository</h4>
+
+<code>git clone https://github.com/kethn-tech/TechTalke.git
+cd login-signup-page</code>
+
+<h4>2.Install Dependencies</h4>
+
+<code>cd backend
 npm install
 cd frontend
-npm install
+npm install</code>
 
-4.backend (.env)
-DATABASE_URL=YOUR DB URL Local/Atlas
+<h4>4.backend (.env)</h4>
+<code>DATABASE_URL=YOUR DB URL Local/Atlas</code>
 
-5.Running the Application
-cd backend
+<h4>5.Running the Application</h4>
+<code>cd backend
 npm run dev
 
 cd frontend
 npm run dev
-
+</code>
 
 
