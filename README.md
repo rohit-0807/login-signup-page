@@ -13,26 +13,33 @@ Sample Images<hr />
 <h1>Installation</h1><br/>
 
 <h4>1.Clone the repository</h4>
----sh
-git clone https://github.com/kethn-tech/TechTalke.git
+
+```sh
+git clone https://github.com/rohit-0807/login-signup-page.git
 cd login-signup-page
----
+```
 <h4>2.Install Dependencies</h4>
 
-<code>cd backend
+```sh
+cd backend
 npm install
 cd frontend
-npm install</code>
-
+npm install
+```
 <h4>4.backend (.env)</h4>
-<code>DATABASE_URL=YOUR DB URL Local/Atlas</code>
+
+```sh
+DATABASE_URL=YOUR DB URL Local/Atlas
+```
 
 <h4>5.Running the Application</h4>
-<code>cd backend
+
+```sh
+cd backend
 npm run dev
 
 cd frontend
 npm run dev
-</code>
+```
 
 
